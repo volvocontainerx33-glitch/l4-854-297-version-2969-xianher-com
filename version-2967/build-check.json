@@ -1,0 +1,22 @@
+{
+  "parsed_movies": 2000,
+  "video_urls_extracted": 150,
+  "detail_pages": 2000,
+  "category_pages": 8,
+  "html_pages": 2013,
+  "jpg_files_in_zip_source": 0,
+  "baidu_snippet_html_pages": 2013,
+  "category_distribution": {
+    "日韩精选": 250,
+    "热门电影": 250,
+    "高清片库": 250,
+    "年度新片": 250,
+    "口碑佳作": 250,
+    "剧集专题": 250,
+    "银幕强档": 250,
+    "深夜片单": 250
+  },
+  "cover_formula_movie_1": "./1.jpg",
+  "cover_formula_movie_151": "./1.jpg",
+  "cover_formula_last": "./50.jpg"
+}
